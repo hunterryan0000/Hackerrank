@@ -1,6 +1,6 @@
-package com.challenges.teExams.mod1;
+package com.challenges.Exams.OOP;
 
-public class TE_M1Exam {
+public class OOP {
     public static void main(String[] args) {
         int x = 14 - 4 / 2;
 
